@@ -1,2 +1,2 @@
--- To insert values in MySQL server
+-- A script 
 INSERT INTO `first_table` (`id`, `name`) VALUES (89, "Holberton School");
