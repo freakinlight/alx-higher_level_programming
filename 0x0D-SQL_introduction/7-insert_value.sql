@@ -1,2 +1,2 @@
--- A script 
-INSERT INTO `first_table` (`id`, `name`) VALUES (89, "Holberton School");
+-- A scriptt
+INSERT INTO first_table (id, name) VALUES (89, 'Best School');
